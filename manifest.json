@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.kinetic.smart-sentiment-hue",
+  "id": "com.hereliesaz.azphalt.sentiment-hue",
   "name": "Sentiment Hue",
   "version": "2.0.0",
   "kind": "asset",
