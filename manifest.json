@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Colours each word by the sentiment of what is being said, red through green.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
